@@ -254,33 +254,33 @@ a:hover:after{
 }
 @media only screen and (max-width: 768px){
 	.a{
-		margin-right: 20px;
+		margin-right: 13px;
 		font-size: 14px;
 	}
 	.main{
-		margin-right: 20px;
+		margin-right: 13px;
 		font-size: 14px;
 	}
 	.mainb{
-		margin-right: 20px;
+		margin-right: 13px;
 		font-size: 14px;
 	}
 	.main-hg{
-		margin-right: 20px;
+		margin-right: 13px;
 		font-size: 14px;
 	}
 	.gal{
 		margin-left: 15px;
-		width: 380px;
-		height: 270px;
+		width: 320px;
+		height: 300px;
 	}
 	.vid{
-		margin-left: 50px;
+		margin-left: 20px;
 	}
 	label.name{
-		font-size: 30px;
+		font-size: 20px;
 		width: 50px;
-		padding-left: 35px;
+		padding-left: 15px;
 		line-height: 100px;
 	}
 }
